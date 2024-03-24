@@ -1,2 +1,2 @@
 # React-Chat-Application
-DCN Chat Project by Hamza A Wajeeh &amp; Adnan Ali
+A chat application developed using MERN Stack. It's sort of a WhatsApp web cloned. N number of users can chat together, and share media files as well.
